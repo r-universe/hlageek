@@ -1,0 +1,34 @@
+[
+  {
+    "package": "rql.wordcloud",
+    "metadata": {
+      "requalverse": {
+        "requal_module": true,
+        "marketplace": true,
+        "category": [
+          "visualization",
+          "text analysis"
+        ],
+        "package_origin": "requal",
+        "id": 1
+      }
+    }
+  },
+  {
+    "package": "rql.textimport",
+    "metadata": {
+      "requalverse": {
+        "requal_module": true,
+        "marketplace": true,
+        "category": [
+          "import",
+          "convert",
+          "documents",
+          "transcriptions"
+        ],
+        "package_origin": "requal",
+        "id": 2
+      }
+    }
+  }
+]
