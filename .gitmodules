@@ -7,7 +7,7 @@
 	url = https://github.com/RE-QDA/requal
 [submodule "rql.textimport"]
 	path = rql.textimport
-	url = https://github.com/RE-QDA/rql.textimport
+	url = https://github.com/hlageek/rql.textimport
 [submodule "rql.wordcloud"]
 	path = rql.wordcloud
-	url = https://github.com/RE-QDA/rql.wordcloud
+	url = https://github.com/hlageek/rql.wordcloud
